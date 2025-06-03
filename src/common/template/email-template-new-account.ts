@@ -1,0 +1,2 @@
+export const emailTemplateNewAccount =
+  "<p>Welcome to <strong>{service_name}</strong>!</p><p>Hi <strong>{name}</strong>,</p><p>Your account has been successfully created. Below are your login details:</p><p><strong>Username:</strong> {user_name}</p><p><strong>Password:</strong> {password}</p><p>Please confirm your email address by clicking on the link below to activate your account:</p><p><a href='[Activation Link]'>Activate My Account</a></p><p>Thanks for choosing {service_name}.</p>";
